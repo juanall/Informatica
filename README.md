@@ -1,4 +1,1 @@
 # Informatica
-hola
-hola
-s
